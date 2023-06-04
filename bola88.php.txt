@@ -8,7 +8,7 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bola88 - Judi Online Sbobet88 Online Terbaik</title>
     <meta name="description" content="Situs Bola88 menawarkan pengalaman judi online terbaik dengan permainan Sbobet88 yang variatif dan adil. Bermain di sini, Anda bisa merasakan sensasi taruhan sepak bola, olahraga lainnya, game kartu, slot, dan live casino. Nikmati pelayanan 24/7, kemudahan deposit dan penarikan, serta bonus-bonus menarik setiap harinya. Bergabunglah dengan komunitas judi online terpercaya di Bola88 dan raih keberuntungan Anda!" />
-    <link rel="canonical" href="http://e-bkpsdm.sampangkab.go.id/skp/api/~bola88/" />
+    <!-- link rel="canonical" href="http://e-bkpsdm.sampangkab.go.id/skp/api/~bola88/" / -->
     <meta name="keywords" content="Bola88, Sbobet88, Judi Online" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#0a0a0a" />
