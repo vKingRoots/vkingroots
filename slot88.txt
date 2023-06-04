@@ -25,8 +25,6 @@
     <meta name="geo.country" content="ID" />
     <meta name="geo.region" content="ID" />
     <meta name="tgn.nation" content="Indonesia" />
-    <meta name="google-site-verification" content="Z12-NvLZYoRZJUUGo_MDW7dusmYdHzWfu1I8ISiqnk8" />
-    <meta name="google-site-verification" content="q2OTZB5GvTgadRxBM4kqa0623JywO5HVcnNzabRVBLA" />
     <meta name="google-site-verification" content="7zleZ2taET_CvpH9cDwKvpWGy6DC8ctP-QEdNCJaj_w" />
     <!-- OG:FACEBOOK -->
     <meta property="og:locale" content="id_ID" />
