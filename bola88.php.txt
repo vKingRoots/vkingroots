@@ -7,7 +7,7 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Bola88 - Judi Online Sbobet88 Online Terbaik</title>
     <meta name="description" content="Situs Bola88 menawarkan pengalaman judi online terbaik dengan permainan Sbobet88 yang variatif dan adil. Bermain di sini, Anda bisa merasakan sensasi taruhan sepak bola, olahraga lainnya, game kartu, slot, dan live casino. Nikmati pelayanan 24/7, kemudahan deposit dan penarikan, serta bonus-bonus menarik setiap harinya. Bergabunglah dengan komunitas judi online terpercaya di Bola88 dan raih keberuntungan Anda!" />
-    <link rel="canonical" href="https://pt-yogyakarta.go.id/site/bola88" />
+    <link rel="canonical" href="https://pt-yogyakarta.go.id/site/bola88/" />
     <meta name="keywords" content="Bola88, Sbobet88, Judi Online" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#0a0a0a" />
@@ -26,13 +26,12 @@
     <meta name="geo.region" content="ID" />
     <meta name="tgn.nation" content="Indonesia" />
     <meta name="google-site-verification" content="u4GQYfMsGrT91l9wJLj2-tcpdbVZdsHOcYrDVZvnz8Y" />
-    <meta name="google-site-verification" content="ldnNf2GvfKfdYQSbyxPKbMY2B3noupalrzk5D3GSMpg" />
     <!-- OG:FACEBOOK -->
     <meta property="og:locale" content="id_ID" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Bola88 - Judi Online Sbobet88 Online Terbaik" />
     <meta property="og:description" content="Situs Bola88 menawarkan pengalaman judi online terbaik dengan permainan Sbobet88 yang variatif dan adil. Bermain di sini, Anda bisa merasakan sensasi taruhan sepak bola, olahraga lainnya, game kartu, slot, dan live casino. Nikmati pelayanan 24/7, kemudahan deposit dan penarikan, serta bonus-bonus menarik setiap harinya. Bergabunglah dengan komunitas judi online terpercaya di Bola88 dan raih keberuntungan Anda!" />
-    <meta property="og:url" content="https://pt-yogyakarta.go.id/site/bola88" />
+    <meta property="og:url" content="https://pt-yogyakarta.go.id/site/bola88/" />
     <meta property="og:site_name" content="Bola88" />
     <meta property="article:modified_time" content="2023-05-25T07:51:30+00:00" />
     <meta property="og:image" content="https://i.ibb.co/cL1S1C4/soccer01.png" />
@@ -444,7 +443,7 @@
         "description": "Situs Bola88 menawarkan pengalaman judi online terbaik dengan permainan Sbobet88 yang variatif dan adil. Bermain di sini, Anda bisa merasakan sensasi taruhan sepak bola, olahraga lainnya, game kartu, slot, dan live casino. Nikmati pelayanan 24/7, kemudahan deposit dan penarikan, serta bonus-bonus menarik setiap harinya. Bergabunglah dengan komunitas judi online terpercaya di Bola88 dan raih keberuntungan Anda!",
         "keywords": ["Bola88, slot gacor, slot gampang menang hari ini"],
         "image": "https://i.ibb.co/cL1S1C4/soccer01.png",
-        "url": "https://pt-yogyakarta.go.id/site/bola88",
+        "url": "https://pt-yogyakarta.go.id/site/bola88/",
         "publisher": {
           "@type": "Organization",
           "name": "Bola88"
@@ -465,7 +464,7 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://pt-yogyakarta.go.id/site/bola88"
+          "@id": "https://pt-yogyakarta.go.id/site/bola88/"
         },
         "headline": "Bola88 - Judi Online Sbobet88 Online Terbaik",
         "image": ["https://i.ibb.co/cL1S1C4/soccer01.png"],
@@ -474,7 +473,7 @@
         "author": {
           "@type": "Person",
           "name": "Bola88",
-          "url": "https://pt-yogyakarta.go.id/site/bola88"
+          "url": "https://pt-yogyakarta.go.id/site/bola88/"
         },
         "publisher": {
           "@type": "Organization",
@@ -491,7 +490,7 @@
     <header>
       <div class="header-wrapper">
         <div class="logo">
-          <a href="https://pt-yogyakarta.go.id/site/bola88">
+          <a href="https://pt-yogyakarta.go.id/site/bola88/">
             <amp-img src="https://cdn.kibrispdr.org/data/939/super-soccer-logo-png-1.jpg" width="200" height="70" alt="Slot77" layout="fixed"></amp-img>
 			
           </a>
@@ -503,10 +502,10 @@
         <div class="menu">
           <ul>
             <li>
-              <a href="https://pt-yogyakarta.go.id/site/bola88" class="active">
+              <a href="https://pt-yogyakarta.go.id/site/bola88/" class="active">
                 <b>DAFTAR BOLA88</b>
               </a>
-              <!-- a href="https://pt-yogyakarta.go.id/site/bola88">
+              <!-- a href="https://pt-yogyakarta.go.id/site/bola88/">
                 <b>SLOT GACOR</b>
               </a -->
             </li>
@@ -561,10 +560,10 @@
 			<h1 class="text-center" >Bola88 - Judi Online Sbobet88 Online Terbaik</h1>
 
 			
-			<p style="text-align: justify">Judi online kini semakin populer di Indonesia. Dengan kemudahan akses dan banyaknya pilihan permainan, banyak orang tertarik untuk mencoba bermain judi online. Salah satu situs judi online terbaik di Indonesia adalah Bola88. Keunggulan <a href="https://pt-yogyakarta.go.id/site/bola88">Bola88</a> sebagai situs judi online tersebut membuatnya menjadi pilihan banyak orang untuk bermain judi online. Pada blog post kali ini, kita akan membahas tentang keunggulan Bola88 sebagai situs judi online terbaik, jenis-jenis permainan yang tersedia, dan cara mendaftar dan bermain di Bola88.</p>
+			<p style="text-align: justify">Judi online kini semakin populer di Indonesia. Dengan kemudahan akses dan banyaknya pilihan permainan, banyak orang tertarik untuk mencoba bermain judi online. Salah satu situs judi online terbaik di Indonesia adalah Bola88. Keunggulan <a href="https://pt-yogyakarta.go.id/site/bola88/">Bola88</a> sebagai situs judi online tersebut membuatnya menjadi pilihan banyak orang untuk bermain judi online. Pada blog post kali ini, kita akan membahas tentang keunggulan Bola88 sebagai situs judi online terbaik, jenis-jenis permainan yang tersedia, dan cara mendaftar dan bermain di Bola88.</p>
 
 			<h2>Keunggulan Bola88 sebagai Situs Judi Online Terbaik</h2>
-			<p style="text-align: justify">Bola88 memiliki beberapa keunggulan sebagai <a href="https://pt-yogyakarta.go.id/site/bola88">situs judi online terbaik</a> di Indonesia. Pertama, tampilan yang user-friendly. Interface situs Bola88 sangat mudah untuk digunakan, tidak rumit, dan memudahkan navigasi. Kedua, keamanan yang terjamin. Bola88 menggunakan sistem keamanan terkini yang memastikan privasi data member terjaga dan tidak diakses oleh pihak yang tidak bertanggung jawab. Ketiga, layanan pelanggan yang responsif. Bola88 memiliki layanan pelanggan 24/7 yang siap membantu member dalam menyelesaikan berbagai masalah atau kendala yang dialami saat menggunakan situs Bola88.</p>
+			<p style="text-align: justify">Bola88 memiliki beberapa keunggulan sebagai <a href="https://pt-yogyakarta.go.id/site/bola88/">situs judi online terbaik</a> di Indonesia. Pertama, tampilan yang user-friendly. Interface situs Bola88 sangat mudah untuk digunakan, tidak rumit, dan memudahkan navigasi. Kedua, keamanan yang terjamin. Bola88 menggunakan sistem keamanan terkini yang memastikan privasi data member terjaga dan tidak diakses oleh pihak yang tidak bertanggung jawab. Ketiga, layanan pelanggan yang responsif. Bola88 memiliki layanan pelanggan 24/7 yang siap membantu member dalam menyelesaikan berbagai masalah atau kendala yang dialami saat menggunakan situs Bola88.</p>
 
 			<p style="text-align: justify">Keunggulan Bola88 dibandingkan dengan situs judi online lainnya di Indonesia adalah reputasi yang baik. Bola88 telah berdiri sejak tahun 2009, dan selama itu telah berhasil membangun reputasi yang baik di kalangan pemain judi. Bola88 juga terkenal sebagai situs judi online terbaik dan terpercaya di Indonesia. Selain itu, Bola88 juga menyediakan bonus dan promo yang sangat menguntungkan untuk membernya. Semua keunggulan ini membuat Bola88 menjadi pilihan pertama bagi banyak orang untuk bermain judi online di Indonesia.</p>
 
@@ -574,7 +573,7 @@
 			<p style="text-align: justify">Setiap jenis permainan judi online di Bola88 memiliki jenis taruhan dan pembayaran yang berbeda-beda. Pemain harus memilih jenis permainan yang sesuai dengan kemampuan mereka dan dengan pola taruhan yang benar. Untuk memaksimalkan peluang menang, pemain harus menguasai strategi dan tips yang tepat dalam bermain judi online.</p>
 
 			<h2>Cara Mendaftar dan Bermain di Bola88</h2>
-			<p style="text-align: justify">Agar dapat bermain di Bola88, pemain harus mendaftar sebagai member terlebih dahulu. Cara mendaftar di Bola88 sangat mudah. Pemain hanya perlu mengisi formulir pendaftaran yang disediakan di <a href="https://pt-yogyakarta.go.id/site/bola88">situs Bola88</a> dan mengikuti langkah-langkah yang disebutkan. Setelah berhasil mendaftar, member bisa langsung deposit dan mulai bermain.</p>
+			<p style="text-align: justify">Agar dapat bermain di Bola88, pemain harus mendaftar sebagai member terlebih dahulu. Cara mendaftar di Bola88 sangat mudah. Pemain hanya perlu mengisi formulir pendaftaran yang disediakan di <a href="https://pt-yogyakarta.go.id/site/bola88/">situs Bola88</a> dan mengikuti langkah-langkah yang disebutkan. Setelah berhasil mendaftar, member bisa langsung deposit dan mulai bermain.</p>
 
 			<p style="text-align: justify">Setelah mendaftar dan berhasil login di Bola88, pemain dapat memilih permainan yang ingin dimainkan dan memilih jenis taruhan yang diinginkan. Pemain juga harus memiliki saldo di akun Bola88 untuk dapat memasang taruhan. Proses deposit dan penarikan dana sangat mudah dan cepat di Bola88.</p>
 
@@ -588,7 +587,7 @@
     <footer>
       <div class="container">
         <div class="footer-text">
-          <p> &copy; 2023 <a style="color: rgb(255, 0, 0)" href="https://pt-yogyakarta.go.id/site/bola88">BOLA88</a>. All Rights Reserved. </p>
+          <p> &copy; 2023 <a style="color: rgb(255, 0, 0)" href="https://pt-yogyakarta.go.id/site/bola88/">BOLA88</a>. All Rights Reserved. </p>
         </div>
       </div>
     </footer>
